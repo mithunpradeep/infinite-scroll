@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#avatars {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#error{
+    text-align: center;
+    border: 1px solid red;
+    position: fixed;
+    width: 100%;
+    background-color: white;
+}
+
+#loading{
+    display: flex;
+    justify-content: center;
+}
+
+.avatar {
+    width: 20%;
+    background-color: gold;
+}
+
+.avatar_image {
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.avatar_detail {
+    word-wrap: break-word;
+    text-align: center;
+    padding: 90px 0;
+}
