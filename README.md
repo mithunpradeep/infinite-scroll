@@ -26,16 +26,3 @@ npm start
 To view the application in browser, go to the following address.
 
 <http://localhost:3000>
-
-## Major concepts used
-
-- Event Delegation
-- Throttling
-- Asynchronus programming using async/await and promise
-
-- Reponsive website using flexbox
-
-## TODO
-
-- lint
-- Test cases
